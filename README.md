@@ -22,6 +22,16 @@ With over **12+ years of hands-on experience** in software development, I specia
 - 🎯 **Focus**: Building scalable systems, mentoring developers, and contributing to open source.
 - 💡 **Philosophy**: _Code should be simple, clean, and impactful._
 
+**🔧 Core Skills:**
+- **Languages:** PHP, JavaScript (React JS, Vue JS), Python, C#, SQL, NoSQL (MongoDB)
+- **Frameworks:** Laravel, Magento 2, CodeIgniter, WordPress, Next JS, Zend Framework, Slim Framework
+- **Cloud:** AWS, Azure, Heroku, Firebase, Jenkins, GitLab CI/CD
+- **Architecture:** Microservices, Monolithic, Solution Architecture, TDD, BDD
+- **Tools:** GitHub, GitLab, Bitbucket, Jira, Trello, Asana, Docker, Kubernetes
+- **Payment Gateways:** Stripe, PayPal, Braintree, Atom, Authorize.net, PayUbiz
+- **Methodologies:** Agile, Scrum, DevOps, CI/CD
+
+
 ---
 
 ## 🛠️ Tech Stack
