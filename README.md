@@ -28,7 +28,7 @@ With over **12+ years of hands-on experience** in software development, I specia
 
 | **Languages** | **Frontend** | **Backend** | **DevOps** | **Cloud** |
 |:-------------:|:------------:|:-----------:|:----------:|:---------:|
-| JavaScript (TypeScript), Python, Java, C++, Go | React, Angular, HTML5, CSS3, TailwindCSS | Node.js, Django, Flask, Spring Boot, GraphQL | Docker, Kubernetes, Jenkins, Terraform | AWS (Certified), Google Cloud, Azure |
+| JavaScript (TypeScript), Python, PHP, C++, Go | React, Angular, Vue, HTML5, CSS3, TailwindCSS | Node.js, Django, Flask, GraphQL | Docker, Kubernetes, Jenkins, Terraform | AWS, Google Cloud, Azure |
 | PostgreSQL, MongoDB, MySQL, Redis | _Design Systems_ | _RESTful APIs_ | _CI/CD Pipelines_ | _Serverless Computing_ |
 
 ---
