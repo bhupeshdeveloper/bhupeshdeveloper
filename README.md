@@ -89,8 +89,8 @@ With over **12+ years of hands-on experience** in software development, I specia
 
 - 🌐 **Portfolio**: [bhupeshdeveloper.com](https://bhupeshdeveloper.com)
 - 💼 **LinkedIn**: [linkedin.com/in/bhupeshdeveloper](https://www.linkedin.com/in/bhupeshdeveloper)
-- 🐦 **Twitter**: [@bhupeshdev](https://twitter.com/bhupeshdev)
-- ✉️ **Email**: bhupeshdeveloper@example.com
+- 🐦 **Twitter**: [@bhupeshdev](https://twitter.com/bhupeshdeveloper)
+- ✉️ **Email**: bhupeshdeveloper@gmail.com
 
 ---
 
